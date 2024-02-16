@@ -1,0 +1,20 @@
+{
+  "name": "todo-app-2024-sample-01",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "TJ Monserrat",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "fastify": "^4.26.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
